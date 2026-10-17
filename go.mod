@@ -106,4 +106,4 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
-replace github.com/bluenviron/gohlslib/v2 => github.com/jna699/gohlslib/v2 v2.0.0-20261008141851-c5011e2d56d7
+replace github.com/bluenviron/gohlslib/v2 => github.com/jna699/gohlslib/v2 v2.0.0-20261017032655-3beea4645e30
